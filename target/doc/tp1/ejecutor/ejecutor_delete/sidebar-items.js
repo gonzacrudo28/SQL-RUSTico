@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["ejecutar_delete","procesar_archivo_delete"]};

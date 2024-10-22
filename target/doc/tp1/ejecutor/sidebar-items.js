@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["ejecutor_delete","ejecutor_implementacion","ejecutor_insert","ejecutor_select","ejecutor_update"]};

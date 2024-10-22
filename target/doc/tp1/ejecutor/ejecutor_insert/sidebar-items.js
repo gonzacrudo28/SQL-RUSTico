@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["ejecutar_insert","juntar_valores","limpiar_lista_into","misma_len","obtener_linea_a_escribir","procesar_archivo_insert"]};

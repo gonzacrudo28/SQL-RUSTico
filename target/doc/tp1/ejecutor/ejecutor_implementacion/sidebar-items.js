@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["adaptar_where","agrupar_condicionales","agrupar_expresiones","crear_ruta","ejecutar_comando","juntar_words","limpiar_lista","obtener_indices_columnas","obtener_primera_linea"]};

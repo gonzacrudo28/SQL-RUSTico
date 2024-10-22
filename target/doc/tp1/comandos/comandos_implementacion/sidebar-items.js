@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Comandos"],"fn":["eliminar_punto_y_coma","obtener_indice","parsear","parser_delete","parser_insert","parser_select","parser_update"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["actualizar_archivo","actualizar_linea","clausula_set_limpia","ejecutar_update","obtener_clausula","procesar_archivo_update","validar_clausula_set"]};

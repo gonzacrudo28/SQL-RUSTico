@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["ejecutar_select","mostrar_resultado","ordenar_resultado","procesar_archivo_select"]};
